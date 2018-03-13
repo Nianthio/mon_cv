@@ -1,1 +1,2 @@
 # mon_cv
+Ce CV détaille mon parcours et permet de me faire connaitre du marché de l'emploi. En effet, ma formation en tant que futur entrepreneur m'a permi de me familiariser avec les outils de la gestion (gestion de projet, comptabilité, marketing, ...) et les outils de l'économie (analyse économique, micro et macroéconomie, analyse de données, ...). Cela me donne un avantage compétitif par rapport à d'autres.  
